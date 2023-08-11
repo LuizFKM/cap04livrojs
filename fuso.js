@@ -10,6 +10,6 @@ $(document).ready(function(){
         }
 
         $('h3').text(`A hora na França é ${horaFranca.toFixed(2)}`);
-
+        
     })
 })
